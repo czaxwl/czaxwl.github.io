@@ -5,14 +5,11 @@ nav:
   - title: "办公场地"
     section: portfolio
     
-  - title: "About"
-    section: timeline
-
-  - title: "Team"
+  - title: "关于我们"
     section: team
 
-  - title: "Contact"
+  - title: "联系方式"
     section: contact
 
-  - title: "Theme Source"
+  - title: "快递查询"
     url: https://github.com/raviriley/agency-jekyll-theme/

@@ -39,7 +39,7 @@ services:
 
               5.各船公司的各种柜型的整柜服务，可到达目的地遍布全球；\n
 
-              6. 按照客户的要求为客户提供起运港的散货拼箱海运运服务，以最经济的方式出运货物；\n
+              6.按照客户的要求为客户提供起运港的散货拼箱海运运服务，以最经济的方式出运货物；\n
 
               7.拥有在世界各地都有代理的优势，为客户提供全球400多个代理点的门到门服务。快速、准确的将货物送到您的指定地点；\n
 
@@ -53,36 +53,36 @@ portfolio:
     closebutton: "关闭"
     
 
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
+#timeline:
+#    title: "About" 
+#    text: "Lorem ipsum timeline"
+#    section: timeline
     # left is the default
     #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        # you can enforce the aligment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+#    events:
+#      - title: "Our Humble Beginnings"
+#        year: "2009-2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/1.jpg
+#        alt: 
+#      - title: "An Agency is Born"
+#        year: "March 2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/2.jpg
+ #       alt: 
+  #    - title: "Jekyll Theme is created"
+   #     year: "2019"
+    #    desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+     #   image: assets/img/timeline/3.jpg
+      #  alt: image alt text
+#      - title: "Title"
+ #       year: "2009-2011"
+  #      desc: "Your description here, **Markdown** is fully supported."
+   #     image: assets/img/timeline/4.jpg
+   #     alt: 
+   #     # you can enforce the aligment
+   #     align: right
+    #end: "Be Part <br> of Our <br> Story!"
 
 about:
     title: "About Us"
@@ -108,45 +108,26 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "关于我们"
+    text: ""
+    subtext: 
+    常州市奥翔物流有限公司成立于2005年4月，是经国家工商局批准的国际货运代理企业，并在江苏省商务厅和国家邮政管理局备案的企业。
+    公司对外承接国际快件、海运、空运、陆运进出口业务，并提供相关的报关、检验、海运保险、门到门运输、多式联运、国际联运、仓储等服务。
+    公司本着信誉第一、客户至上的原则，竭诚为客户提供全方面的物流解决方案，并提供全程跟踪服务，公司拥有一个优秀的团队和一批本行业具有丰富经验的专业人才，有完善的管理制度和公司管理信息系统，并通过网络与客户，各分支机构间进行实时的联系和数据共享，也为客户提供了安全、准确、快捷、经济的全方位优质服务。
+    奥翔的企业精神：诚信、敬业、创新、高效。
+    奥翔企业文化的核心：与时俱进、以人为本、实施人性化管理。
+    奥翔的使命是通过提供增值的货运管理和物流解决方案来赢取客户满意度和忠诚度。我们将为每一客户提供个性化的服务,使得业务便捷，并提供全球性的专业方案来简化日益复杂的全球市场。
+    奥翔-心灵能飞到的地方，就有我们的服务。
+
     section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "电话:0519-85129232, 85193868, 85193878\n
+    传真:0519-85193898\n
+    电子邮件: bingchzh#163.com(#->@)\n
+    地址：江苏省常州市钟楼区新庄路10号富都江南新经济产业园2-10"
+
     section: contact
     
 footer:
