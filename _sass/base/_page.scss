@@ -28,6 +28,7 @@ h6 {
   font-weight: 700;
   @include heading-font;
 }
+h7
 
 .page-section {
   padding: 100px 0;
@@ -43,6 +44,12 @@ h6 {
     margin-bottom: 75px;
     text-transform: none;
     @include serif-font;
+  }
+  h7.section-subheading{
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffffff;
+    @include body-font;
   }
 }
 @media(min-width:768px) {
